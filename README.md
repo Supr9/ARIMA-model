@@ -11,3 +11,11 @@ In this notebook you will find the following:
 - Purpose of differencing in Time series datasets.
 - Stationarity tests using ADF (Augmented Dickey Fuller Test).
 - Autocorrelation (ACF) and Partial Autocorrelation (PACF) used to determine the q (MA) and p (AR) orders.
+
+
+
+## Todo:
+
+- Finish seasonal ARIMA models
+- Make an RNN and Random Forest Regressor (with TimeSeriesSplit)
+
